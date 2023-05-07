@@ -2,8 +2,8 @@
 var progressBar = document.getElementById("myBar");
 
 // Set the IP address and port of your Garry's Mod server
-var ipAddress = "your.server.ip.address";
-var portNumber = "your_server_port";
+var ipAddress = "93.194.179.55";
+var portNumber = "27015";
 
 // Set the refresh rate (in milliseconds) to update the progress bar
 var refreshRate = 1000;
